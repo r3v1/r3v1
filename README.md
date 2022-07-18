@@ -17,6 +17,12 @@ My name is David,
 #### *crowded_beach*: counting people in Gipuzkoa beaches
 ![ReadMe Card - crowded_beach](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=crowded_beach)
 
+#### *python-euskalmet*: Python API for Euskalmet data
+![ReadMe Card - python-euskalmet](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=python-euskalmet)
+
+#### *tf-SmeLU*: Tensorflow implementation of Smooth RELU (SmeLU) activation function
+![ReadMe Card - tf-SmeLU](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=tf-SmeLU)
+
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3v1&hide=html)
 
