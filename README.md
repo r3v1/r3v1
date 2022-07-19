@@ -5,6 +5,8 @@ My name is David,
 ### 🔭 I’m currently working on
 - Machine Learning applied to meteo data science, developing models to forecast energy production in wind and photovoltaic farms.
 - Also trying to improve accuracy on numerical weather prediction through deep learning. 
+- Main developer of the weather data provider service for Spanish media Canal Sur and Canal Extremadura.
+- Principal data scientist and developer of an automatic and intelligent system for the modeling of regionalized weather forecasts in the Segura river basin.
 
 ### 📫 How to reach me:
 - [Email](mailto:r3v1@pm.me)
