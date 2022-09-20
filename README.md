@@ -2,7 +2,7 @@
 
 My name is David,
 
-### 🔭 I’m currently working on
+### 🔭 Previously, I worked on:
 - Machine Learning applied to meteo data science, developing models to forecast energy production in wind and photovoltaic farms.
 - Also trying to improve accuracy on numerical weather prediction through deep learning. 
 - Main developer of the weather data provider service for Spanish media Canal Sur and Canal Extremadura.
