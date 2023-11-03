@@ -2,7 +2,13 @@
 
 My name is David,
 
-### 🔭 Previously, I worked on:
+### Currently, I'm working on:
+- Optimization of logistics and transport processes.
+- Development of large language models applications, mostly around RAG (Retrieval Augmented Generation) and generative AI.
+• Development and implementation of forecasting models for public entities.
+• Maintenance of existing forecasting software.
+
+### 🔭 Previously:
 - Machine Learning applied to meteo data science, developing models to forecast energy production in wind and photovoltaic farms.
 - Also trying to improve accuracy on numerical weather prediction through deep learning. 
 - Main developer of the weather data provider service for Spanish media Canal Sur and Canal Extremadura.
@@ -10,20 +16,6 @@ My name is David,
 
 ### 📫 How to reach me:
 - [Email](mailto:r3v1@pm.me)
-
-### About my GitHub repos
-
-#### *Evolutionary Computation in Hierarchical Model Discovery* master thesis code
-![ReadMe Card - ec-ppl](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=ec-ppl)
-
-#### *crowded_beach*: counting people in Gipuzkoa beaches
-![ReadMe Card - crowded_beach](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=crowded_beach)
-
-#### *python-euskalmet*: Python API for Euskalmet data
-![ReadMe Card - python-euskalmet](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=python-euskalmet)
-
-#### *tf-SmeLU*: Tensorflow implementation of Smooth RELU (SmeLU) activation function
-![ReadMe Card - tf-SmeLU](https://github-readme-stats.vercel.app/api/pin/?username=r3v1&repo=tf-SmeLU)
 
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3v1&hide=html)
