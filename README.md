@@ -5,8 +5,8 @@ My name is David,
 ### Currently, I'm working on:
 - Optimization of logistics and transport processes.
 - Development of large language models applications, mostly around RAG (Retrieval Augmented Generation) and generative AI.
-• Development and implementation of forecasting models for public entities.
-• Maintenance of existing forecasting software.
+- Development and implementation of forecasting models for public entities.
+- Maintenance of existing forecasting software.
 
 ### 🔭 Previously:
 - Machine Learning applied to meteo data science, developing models to forecast energy production in wind and photovoltaic farms.
